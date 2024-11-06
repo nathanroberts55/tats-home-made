@@ -32,5 +32,8 @@
 	"dependencies": {
 		"@sveltejs/adapter-cloudflare": "^4.7.4",
 		"wrangler": "^3.84.1"
+	},
+	"optionalDependencies": {
+		"@rollup/rollup-linux-x64-gnu": "*"
 	}
 }
