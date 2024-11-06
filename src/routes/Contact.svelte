@@ -1,4 +1,4 @@
-<section class="my-10 max-md:mx-8">
+<section class="my-10 max-md:mx-8" id="Contact">
 	<div class="flex flex-row justify-between gap-10 max-md:flex-col">
 		<div class="flex w-1/2 flex-row justify-center max-md:w-full">
 			<img

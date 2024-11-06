@@ -5,7 +5,7 @@
 	let { children } = $props();
 </script>
 
-<!-- <Navbar /> -->
+<Navbar />
 <main class="mx-auto flex w-full grow flex-col">
 	{@render children()}
 </main>
