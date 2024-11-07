@@ -1,10 +1,10 @@
-<section class="my-10 max-md:mx-8" id="Contact">
+<section class="mx-auto my-10 w-5/6 max-md:mx-8" id="Contact">
 	<div class="flex flex-row justify-between gap-10 max-md:flex-col">
 		<div class="flex w-1/2 flex-row justify-center max-md:w-full">
 			<img
 				src="https://www.setforset.com/cdn/shop/articles/vegan_bodybuilding_meal_plan_2000x.jpg?v=1675968059"
 				alt="Plate of Ingredients"
-				class="rounded-full"
+				class="h-96 w-96 rounded-full"
 			/>
 		</div>
 		<div class="my-auto w-1/2 max-md:w-full">

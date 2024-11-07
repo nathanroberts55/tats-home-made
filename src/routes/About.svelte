@@ -1,8 +1,8 @@
-<section class="my-10 max-md:mx-8" id="About">
+<section class="mx-auto my-10 w-5/6 max-md:mx-8" id="About">
 	<div class="flex flex-row-reverse justify-between gap-10 max-md:flex-col">
 		<div class="flex w-1/2 flex-row justify-center max-md:w-full">
 			<img
-				class="rounded-full"
+				class="h-96 w-96 rounded-full"
 				src="https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
 				alt="Dumplings"
 			/>

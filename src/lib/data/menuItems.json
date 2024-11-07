@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Classic Vegetable Dumplings",
+		"price": 8.99,
+		"description": "A delightful mix of cabbage, carrots, and mushrooms wrapped in a tender dumpling skin.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	},
+	{
+		"name": "Spinach and Tofu Dumplings",
+		"price": 9.49,
+		"description": "Healthy spinach and protein-rich tofu combined in a delicious dumpling.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	},
+	{
+		"name": "Mushroom and Chive Dumplings",
+		"price": 9.99,
+		"description": "Savory mushrooms and fresh chives make these dumplings a flavorful treat.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	},
+	{
+		"name": "Sweet Potato Dumplings",
+		"price": 8.49,
+		"description": "Sweet and savory sweet potato filling in a delicate dumpling wrapper.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	},
+	{
+		"name": "Edamame and Corn Dumplings",
+		"price": 8.99,
+		"description": "A unique blend of edamame and corn for a fresh and tasty dumpling experience.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	},
+	{
+		"name": "Kimchi Dumplings",
+		"price": 9.49,
+		"description": "Spicy and tangy kimchi filling for those who love a bit of heat.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	},
+	{
+		"name": "Pumpkin Dumplings",
+		"price": 8.99,
+		"description": "Seasonal pumpkin filling with a hint of sweetness, perfect for autumn.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	},
+	{
+		"name": "Pea and Mint Dumplings",
+		"price": 9.49,
+		"description": "Refreshing mint and sweet peas create a light and tasty dumpling.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	},
+	{
+		"name": "Broccoli and Cheese Dumplings",
+		"price": 9.99,
+		"description": "A comforting combination of broccoli and melted cheese in a dumpling.",
+		"image": "https://www.eatingwell.com/thmb/8lIxwVbt8LBL7bO-gGsmbcgZzZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-vegetable-dumplings-recipe-0651949d589142e3b3e7b3c672954283.jpg"
+	}
+]

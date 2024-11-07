@@ -3,6 +3,7 @@
 	import Contact from './Contact.svelte';
 	import Location from './Location.svelte';
 	import Title from './Title.svelte';
+	import Menu from './menu/Menu.svelte';
 </script>
 
 <svelte:head>
