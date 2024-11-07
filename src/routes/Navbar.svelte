@@ -29,7 +29,7 @@
 				<li><a class="text-base" href="/" id="#Location">Location</a></li>
 			</ul>
 		</div>
-		<a href="/" class="btn btn-ghost text-xl">Tat's Home Made</a>
+		<a href="/" class="btn btn-ghost font-display text-xl font-bold">Tat's Home Made</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal px-1">

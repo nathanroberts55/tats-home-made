@@ -5,7 +5,7 @@
 
 <section class="mx-8 my-10 mt-24 max-md:mx-8">
 	<div class="mx-auto text-center">
-		<p class="text-5xl">Menu</p>
+		<p class="font-display text-5xl font-bold">Menu</p>
 	</div>
 	<div class="z-10 my-12 grid grid-cols-3 gap-4 max-md:grid-cols-none">
 		{#each menuItems as item}

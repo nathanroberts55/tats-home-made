@@ -7,8 +7,8 @@
 		<img src={props.image} alt="Shoes" />
 	</figure>
 	<div class="card-body">
-		<p class="card-title">{props.name}</p>
-		<p>{props.description}</p>
+		<p class="card-title font-display">{props.name}</p>
+		<p class="">{props.description}</p>
 		<p class="text-right text-lg font-bold">${props.price}</p>
 	</div>
 </div>
