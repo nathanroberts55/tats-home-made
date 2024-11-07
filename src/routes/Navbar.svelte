@@ -1,4 +1,4 @@
-<div class="navbar fixed top-0 bg-base-300 bg-opacity-75">
+<div class="navbar fixed top-0 z-10 bg-base-300 bg-opacity-75">
 	<div class="navbar-start">
 		<div class="dropdown">
 			<div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
@@ -21,25 +21,29 @@
 				tabindex="0"
 				class="menu dropdown-content menu-sm z-[1] mt-3 w-52 rounded-box bg-base-100 p-2 shadow"
 			>
-				<li><a href="#About">About</a></li>
+				<li><a class="text-base" href="/menu">Menu</a></li>
+				<li><a class="text-base" href="/" id="#About">About</a></li>
 				<li>
-					<a href="#Contact">Contact</a>
+					<a class="text-base" href="/" id="#Contact">Contact</a>
 				</li>
-				<li><a href="#Location">Location</a></li>
+				<li><a class="text-base" href="/" id="#Location">Location</a></li>
 			</ul>
 		</div>
-		<a class="btn btn-ghost text-xl">Tat's Home Made</a>
+		<a href="/" class="btn btn-ghost text-xl">Tat's Home Made</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal px-1">
-			<li><a href="#About">About</a></li>
+			<li><a class="text-base" href="/menu">Menu</a></li>
+			<li><a class="text-base" href="/#About">About</a></li>
 			<li>
-				<a href="#Contact">Contact</a>
+				<a class="text-base" href="/#Contact">Contact</a>
 			</li>
-			<li><a href="#Location">Location</a></li>
+			<li><a class="text-base" href="/#Location">Location</a></li>
 		</ul>
 	</div>
-	<div class="navbar-end grid-flow-col gap-4 md:place-self-center md:justify-self-end">
+	<div
+		class="navbar-end grid-flow-col gap-4 max-md:hidden md:place-self-center md:justify-self-end"
+	>
 		<a>
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
